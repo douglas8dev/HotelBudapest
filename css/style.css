@@ -1,0 +1,37 @@
+* {
+ margin: 0;
+ padding: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+.main {
+    display: flex;
+    background-image: url(/img/hotel.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    
+}
+
+.main button{
+    width: 300px;
+    height: 100px;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: aqua;
+}
+
+.card {
+    width: 400px;
+    height: 400px;
+    background-color: green;
+    margin: auto;
+}
+
+button{ 
+    margin: auto;
+}
