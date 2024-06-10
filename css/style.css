@@ -9,7 +9,7 @@ html, body {
 
 .main {
     display: flex;
-    background-image: url(/img/hotel.jpg);
+    background-image: url(../img/hotel.jpg);
     background-repeat: no-repeat;
     height: 100%;
     width: 100%;
